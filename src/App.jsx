@@ -1,13 +1,15 @@
 
 import './App.css'
+import Root from './components/Root';
 
 function App() {
 
 
   return (
     <div>
-      <h3> hello, world!</h3>
-      <p> hi, i am junior developer</p>
+
+      <Root></Root>
+      
     </div>
     
   )
